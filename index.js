@@ -56,4 +56,4 @@ play(currentquestion.question,currentquestion.answer)
 }
 
 
-console.log("YAY! You Scored = " + score );
+console.log("YAY! " + username + " You Scored = " + score );
