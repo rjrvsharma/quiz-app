@@ -4,7 +4,7 @@ var score=0
 
 var username=readlinesync.question("whats your name ? ")
 
-console.log("Welcome " + username  +  " to Marvel Cinematic Universe quiz game🦸‍♂️ ? ");
+console.log("Welcome " + username  +  " to Marvel Cinematic Universe quiz game 🦸‍♂️ ? ");
 
 console.log("⚔️ use small letters for answer ⚔️️ ️️️ ️️ ")
 //function aray
@@ -44,6 +44,7 @@ var questions= [{question:"What is Captain America's shield made out of? ",
    {question:"What is Tony Stark’s final line in the first Iron Man ? ",
   answer:"i am iron man"}
   ]
+  
 
 // loop
 
